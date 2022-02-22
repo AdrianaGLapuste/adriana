@@ -1,0 +1,126 @@
+.title-me {
+  text-align: center;
+  font-family:'Euphoria Script', cursive;
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+.student {
+  text-align: center;
+}
+
+.skill {
+  text-align: left;
+}
+
+.projects-text {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.age {
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  margin: 5% 0 5% 0;
+  padding-top: 5%;
+  /* margin: 5% 0; */
+}
+
+.adriana {
+  border-radius: 100%;
+  display: block;
+  margin: 0 auto 5% auto;
+  /* height: 20%; */
+}
+
+.giphy-embed {
+  display: block;
+  margin: 5% auto;
+  height: 50%;
+}
+
+.imgB {
+  display: block;
+  margin: 0 auto 0 auto;
+  height: 80%;
+}
+
+.imgC {
+  display: block;
+  margin: 0 auto 0 auto;
+  height: 70%;
+  background-color: #DFD3C3;
+}
+
+.imgD {
+  display: block;
+  margin: 10% auto 0 auto;
+  height: 80%;
+  border-radius: 100%;
+}
+.imgE {
+  display: block;
+  margin: 10% auto 0 auto;
+  height: 80%;
+}
+
+.container-fluid {
+  padding: 3% 25%;
+}
+
+.my-img {
+  border-radius: 20%;
+  display: block;
+  height: 30%;
+  margin: 10% auto 5%;
+}
+
+#title {
+  height: 100%;
+  background-color: #ffffff;
+  background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
+  background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
+  background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
+  background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
+  background-repeat: repeat,			no-repeat,			no-repeat;
+  background-size: 100px 100px, cover,				cover;
+  background-position: top left,		center center,		bottom center;
+  background-attachment: fixed,			fixed,				fixed;
+}
+
+.navbar-brand {
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-left: 5%;
+}
+
+.nav-link {
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.navbar {
+  background-color: #876445;
+}
+.about-me {
+  text-align: center;
+  font-family:'Euphoria Script', cursive;
+  font-size: 4rem;
+  font-weight: bold;
+  margin-top: 5%;
+}
